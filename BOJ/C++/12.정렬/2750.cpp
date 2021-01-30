@@ -3,7 +3,7 @@
 #include <algorithm>
 using namespace std;
 
-// C++ STL algorithm sort는 QuickSort로 O(nlogn)을 보장해준다
+// C++ STL sort는 QuickSort로 O(nlogn)을 보장해준다고 합니다
 int main()
 {
 	cin.tie(0);
